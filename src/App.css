@@ -3,7 +3,11 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  font-family: 'Rubik Mono One', serif;
+  font-size: 21px;
+  color: rgb(216, 130, 25);
 }
+
 
 .logo {
   height: 6em;
